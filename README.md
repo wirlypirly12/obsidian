@@ -26,9 +26,9 @@ Obsidian is built to be invisible to the things that matter. Rather than hooking
 
 Obsidian is still missing a number of functional and quality-of-life features. Here's what I plan to implement in the near future:
 
-- Log all forms of client→server communication and vice versa
+- Log all forms of client->server communication and vice versa
 - Add more detail to the log window (calling function, calling script, etc.)
-- User interface overhaul — the current interface is bland and due for a complete redesign, though functionality comes first
+- User interface overhaul - the current interface is bland and due for a complete redesign, though functionality comes first
 - Spoofing of parameters and return types
 - Actor support
 
