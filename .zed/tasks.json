@@ -1,0 +1,16 @@
+[
+	{
+		"label": "Compile",
+		"command": "lune run wax bundle env-name=\"Obsidian\" darklua-config-path=\".darklua.json\" minify=true",
+		"use_new_terminal": false,
+		"show_command": false,
+		"reveal": "always",
+	},
+	{
+		"label": "Compile (nominify)",
+		"command": "lune run wax bundle env-name=\"Obsidian\" darklua-config-path=\".darklua.json\" minify=false",
+		"use_new_terminal": false,
+		"show_command": false,
+		"reveal": "always",
+	},
+]
