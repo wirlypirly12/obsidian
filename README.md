@@ -41,5 +41,4 @@ Obsidian was built to provide complete control over the environment while stayin
 ---
 
 ## License
-
-MIT
+Apache 2.0
